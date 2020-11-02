@@ -10,18 +10,12 @@ using System.Windows.Forms;
 
 namespace Курсовой
 {
-    public partial class Напитки : Form
+    public partial class Пироги : Form
     {
-        public Напитки()
+        public Пироги()
         {
             InitializeComponent();
         }
-
-        private void pictureBox11_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             Меню fm = new Меню();
@@ -29,9 +23,11 @@ namespace Курсовой
             fm.Show();
         }
 
+
+
         private void button2_Click(object sender, EventArgs e)
         {
-           Горячее_блюдо  fm = new Горячее_блюдо();
+            Горячее_блюдо fm = new Горячее_блюдо();
 
             fm.Show();
         }
@@ -63,5 +59,6 @@ namespace Курсовой
 
             fm.Show();
         }
+
     }
 }

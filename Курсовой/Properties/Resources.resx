@@ -118,19 +118,199 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="7070-23.09-27.09" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\7070-23.09-27.09.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="kachi-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kachi-1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="NQ_WO1Oidvc" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\NQ_WO1Oidvc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="kurze-s-kartofelem-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kurze-s-kartofelem-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pahlava-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pahlava-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dagestanskiy-pirog-s-myasom-i-kartofelem--1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dagestanskiy-pirog-s-myasom-i-kartofelem--1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="222" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\222.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trubochka-s-greckim-orehom-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trubochka-s-greckim-orehom-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kurze-s-tvorogom-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kurze-s-tvorogom-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pirog-s-kuragoy-i-chernoslivom-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pirog-s-kuragoy-i-chernoslivom-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mini-dagestanskiy-pirog-s-myasom-i-kartofelem-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mini-dagestanskiy-pirog-s-myasom-i-kartofelem-1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="441" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\441.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sladkiy-pirog-limonnik-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sladkiy-pirog-limonnik-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="111" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\111.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chudu-s-syrom-1.1586852617" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chudu-s-syrom-1.1586852617.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mini-dagestanskiy-pirog-s-kuricey-i-gribami-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mini-dagestanskiy-pirog-s-kuricey-i-gribami-1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mini-dagestanskiy-pirog-s-zelenyu-i-tvorogom-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mini-dagestanskiy-pirog-s-zelenyu-i-tvorogom-1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sok-kikuni-abrikos--500ml-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sok-kikuni-abrikos--500ml-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="voda-mever--bez-gaz--1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\voda-mever--bez-gaz--1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chak-chak-s-medom-i-orehami-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chak-chak-s-medom-i-orehami-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5666.750x0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5666.750x0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trubochka-s-greckim-orehom-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trubochka-s-greckim-orehom-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pers-jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pers-jpg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chudu-s-syrom-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chudu-s-syrom-1.15868526171.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chudu-s-zelenyu-1.1586852739" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chudu-s-zelenyu-1.1586852739.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dagestanskiy-pirog-s-syrom-i-tvorogom-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dagestanskiy-pirog-s-syrom-i-tvorogom-1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="deneb-limonad--kizil--1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\deneb-limonad--kizil--1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="44" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\44.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chudu-s-tykvoy-1.1586852053" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chudu-s-tykvoy-1.1586852053.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="331" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\331.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="103_1_11_design" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\103_1_11_design.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="52890-kholodnyi-chai-miendi-540x480" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\52890-kholodnyi-chai-miendi-540x480.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="221" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\221.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kurze-s-tvorogom-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kurze-s-tvorogom-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blek-chudu-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blek-chudu-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sladkiy-pirog-limonnik-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sladkiy-pirog-limonnik-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blek-chudu-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blek-chudu-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chudu-s-zelenyu-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chudu-s-zelenyu-1.15868527391.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sharlotka-s-yablokom-i-koricey-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sharlotka-s-yablokom-i-koricey-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\22.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dagestanskiy-pirog-s-zelenyu-i-tvorogom-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dagestanskiy-pirog-s-zelenyu-i-tvorogom-1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sharlotka-s-yablokom-i-koricey-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sharlotka-s-yablokom-i-koricey-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rychal-su--mineralnaya--gaz-voda--1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rychal-su--mineralnaya--gaz-voda--1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chudu-s-myasom-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chudu-s-myasom-1.15868510111.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chudu-s-myasom-1.1586851011" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chudu-s-myasom-1.1586851011.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\33.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="112" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\112.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kurze-s-kartofelem-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kurze-s-kartofelem-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="177391ee6faaed35cf4e8770d8f8d801" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\177391ee6faaed35cf4e8770d8f8d801.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c8744d6bb16e0dfc2c5e900c03de58bd-500x554" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c8744d6bb16e0dfc2c5e900c03de58bd-500x554.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mini-dagestanskiy-pirog-smes-kavkazskih-syrov-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mini-dagestanskiy-pirog-smes-kavkazskih-syrov-1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5664.750x0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5664.750x0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="73f62a0d9704bd4a6f0facf958643a4f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\73f62a0d9704bd4a6f0facf958643a4f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="abrikosovyy-puding-s-urbechem-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\abrikosovyy-puding-s-urbechem-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="abrikosovyy-puding-s-urbechem-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\abrikosovyy-puding-s-urbechem-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NQ_WO1Oidvc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NQ_WO1Oidvc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pirog-s-kuragoy-i-chernoslivom-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pirog-s-kuragoy-i-chernoslivom-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chak-chak-s-medom-i-orehami-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chak-chak-s-medom-i-orehami-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chudu-s-tykvoy-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chudu-s-tykvoy-1.15868520531.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7070-23.09-27.09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7070-23.09-27.09.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pahlava-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pahlava-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e4ac139105509a12354699c846c3bded" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e4ac139105509a12354699c846c3bded.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

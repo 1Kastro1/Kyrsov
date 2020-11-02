@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Курсовой
 {
-    public partial class Form1 : Form
+    public partial class Корзина : Form
     {
-        public Form1()
+        public Корзина()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
